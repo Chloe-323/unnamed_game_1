@@ -1,0 +1,5 @@
+len=400
+wid=400
+ani=../res/anims/Tileset/tl_corner/animsheet:::../res/anims/Tileset/tl_corner/tl_corner.png
+hbx=0:0:400:63
+hbx=0:63:63:337

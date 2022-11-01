@@ -1,0 +1,5 @@
+len=400
+wid=400
+ani=../res/anims/Tileset/hallway_enter_left/animsheet:::../res/anims/Tileset/hallway_enter_left/hallway_enter_left.png
+hbx=0:337:63:63
+hbx=0:0:63:63

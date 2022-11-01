@@ -1,0 +1,5 @@
+len=40
+wid=40
+nam=axe
+ani=../res/anims/axe/animsheet:::../res/anims/axe/master.png
+hbx=0:0:40:40

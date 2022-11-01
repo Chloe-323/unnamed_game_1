@@ -1,0 +1,5 @@
+len=400
+wid=400
+ani=../res/anims/Tileset/bl_corner/animsheet:::../res/anims/Tileset/bl_corner/bl_corner.png
+hbx=0:0:63:337
+hbx=0:337:400:63

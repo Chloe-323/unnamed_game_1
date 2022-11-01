@@ -1,0 +1,4 @@
+Optimize horizontal flipping of the sprites in object.cpp
+Replace RectangleShape with IntRect and use sfml operations for hitboxes
+Put all strings in one file
+Fix the fucking locations so it's not this disgusting relative path garbage. A filepath generator or manager or something

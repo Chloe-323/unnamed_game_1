@@ -1,0 +1,5 @@
+len=400
+wid=400
+ani=../res/anims/Tileset/hallway_v/animsheet:::../res/anims/Tileset/hallway_v/hallway_v.png
+hbx=0:0:63:400
+hbx=337:0:63:400

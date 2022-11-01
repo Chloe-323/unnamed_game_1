@@ -1,0 +1,4 @@
+len=400
+wid=400
+ani=../res/anims/Tileset/left/animsheet:::../res/anims/Tileset/left/left.png
+hbx=0:0:63:400

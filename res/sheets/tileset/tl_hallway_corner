@@ -1,0 +1,6 @@
+len=400
+wid=400
+ani=../res/anims/Tileset/tl_hallway_corner/animsheet:::../res/anims/Tileset/tl_hallway_corner/tl_hallway_corner.png
+hbx=0:0:400:63
+hbx=0:63:63:337
+hbx=337:337:63:63
